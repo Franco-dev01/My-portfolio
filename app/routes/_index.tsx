@@ -8,8 +8,8 @@ import Project from "~/components/Project";
 
 export const meta: V2_MetaFunction = () => {
   return [
-    { title: "New Remix App" },
-    { name: "description", content: "Welcome to Remix!" },
+    { title: "Portfolio" },
+    { name: "description", content: "Welcome to franco dev portfolio!" },
   ];
 };
 
